@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: mkdocs-pan-zoom
+  description: MkDocs pan and zoom plugin
+  annotations:
+    github.com/project-slug: dadgum82/mkdocs-pan-zoom
+spec:
+  type: library
+  owner: group:default/admins
+  lifecycle: experimental
