@@ -1,0 +1,6 @@
+site_name: MkDocs Pan Zoom
+site_description: Pan and zoom plugin for MkDocs
+plugins:
+  - techdocs-core
+nav:
+  - Home: index.md
