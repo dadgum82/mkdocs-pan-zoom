@@ -5,6 +5,7 @@ metadata:
   description: MkDocs pan and zoom plugin
   annotations:
     github.com/project-slug: dadgum82/mkdocs-pan-zoom
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: library
   owner: group:default/admins
